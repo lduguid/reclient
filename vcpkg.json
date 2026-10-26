@@ -1,0 +1,10 @@
+{
+  "name": "reclient",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "stormlib",
+    "zlib",
+    "openssl",
+    "sdl3"
+  ]
+}

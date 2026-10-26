@@ -1,0 +1,11 @@
+{
+  "host": "127.0.0.1",
+  "authPort": 3724,
+  "account": "ACCOUNT",
+  "gamePassword": "",
+  "character": "",
+  "client": "D:\\home\\World of Warcraft",
+  "controlPort": 8766,
+  "diagnostics": false,
+  "diagnosticsStrict": false
+}

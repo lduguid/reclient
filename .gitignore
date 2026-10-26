@@ -1,0 +1,14 @@
+build/
+config.json
+*.exe
+*.dll
+*.obj
+*.MPQ
+*.mpq
+*.dbc
+ghidra/
+*.rep
+third_party/miniz.zip
+third_party/downloads/
+*.bmp
+*.png
